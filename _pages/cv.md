@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* PhD in Neuroimaging, University of Nottingham, 2016 - 2021
+  * Oxford-Nottingham Biomedical Imaging CDT
+* BA and MSci in Physics, University of Cambridge, 2012 - 2016
 
 Work experience
 ======
@@ -54,6 +54,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Other Activities
 ======
-* Currently signed in to 43 different slack teams
+* Theme Leader at Pint of Science, Nottingham, 2019
