@@ -8,10 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am a Research Fellow in the [POND Group](https://ucl-pond.github.io/) at UCL. I am working on methods for brain connectivity estimation that allow us to quantify the uncertainty in our measurements. These connectivity estimates will inform disease progression models, to better understand neurodegenerative diseases, such as autism.
+## Current Role
+I have recently started a postdoctoral position at UCL in the [POND Group](https://ucl-pond.github.io/). I am working on methods to improve the accuracy of brain connectivity estimation, which aim to quantify the uncertainty in t. These connectivity estimates will inform disease progression models, to improve our understanding of neurodegenerative diseases such as Alzheimer's Disease.
 
-I completed my PhD in 2021 in the [Computational Neuroimaging Laboratory](https://spmic-uon.github.io/conilab/) at the University of Nottingham. 
+## Previous Work
 
-# ![image info](../images/profile.png)
+I completed my PhD in 2021 in the [Computational Neuroimaging Laboratory](https://spmic-uon.github.io/conilab/) at the University of Nottingham. During my PhD, I developed new methods for exploring white matter connections in the neonatal brain. 
+
+## Other Interests
+
 
 
