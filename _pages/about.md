@@ -12,6 +12,6 @@ I am a Research Fellow in the [POND Group](https://ucl-pond.github.io/) at UCL. 
 
 I completed my PhD in 2021 in the [Computational Neuroimaging Laboratory](https://spmic-uon.github.io/conilab/) at the University of Nottingham. 
 
-![image info](../images/profile.png)
+# ![image info](../images/profile.png)
 
 
