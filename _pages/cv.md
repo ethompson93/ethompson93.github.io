@@ -25,17 +25,9 @@ Work experience
 
 * February to September 2021: Research Assistant
   * University of Nottingham
-  * Developing tractography techniques for neonatal MRI
+  * Extending my PhD project: working on neonatal tractography protocols, and exploring methods for mapping brain connections across the lifespan.
   * Supervisors: Professor Stam Sotiropoulos and Dr Matteo Bastiani
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
