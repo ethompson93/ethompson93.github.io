@@ -4,7 +4,7 @@ collection: teaching
 type: "Postgraduate course"
 permalink: /teaching/nmedia
 venue: "University of Nottingham, Precision Imaging Beacon"
-date: 2021
+date: 2021-04-01
 location: "Nottingham, UK"
 ---
 
