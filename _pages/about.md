@@ -16,7 +16,7 @@ I have recently started a postdoctoral position at UCL in the [POND Group](https
 
 I completed my PhD in 2021 in the [Computational Neuroimaging Laboratory](https://spmic-uon.github.io/conilab/) at the University of Nottingham, supervised by Professor Stam Sotiropoulos and Dr Matteo Bastiani. During my PhD, I developed new methods for exploring white matter connections in the neonatal brain. 
 
-A key part of my PhD project was a new framework for data-driven connectivity mapping (paper [here](https://www.sciencedirect.com/science/article/pii/S105381192030759X)). We used non-negative matrix factorisation to extract white matter connectivity patterns and their corresponding grey matter networks from whole-brain connectivity matrices. This provides a way of extrcting white matter bundles from tractography data, without the need for pre-defined regions of interest.
+A key part of my PhD project was a new framework for data-driven connectivity mapping (paper [here](https://www.sciencedirect.com/science/article/pii/S105381192030759X)). We used non-negative matrix factorisation to extract white matter connectivity patterns and their corresponding grey matter networks from whole-brain connectivity matrices. This provides a way of extracting white matter bundles from tractography data, without the need for pre-defined regions of interest.
 
 ![NMF_diagram](../images/diagram.jpg)
 
