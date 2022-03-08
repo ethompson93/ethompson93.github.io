@@ -47,7 +47,14 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+Outreach
+======
+* Mentor on the Apply Competitively to STEM (A-COMPS) programme at UCL. Providing academic and personal support to an A-level student from an under-represented background
+* Theme Leader at Pint of Science, Nottingham, 2019
+
 Other Activities
 ======
 * Member of the Education and Outreach working group of the OHBM Sustainability and Environmental Action SIG
-* Theme Leader at Pint of Science, Nottingham, 2019
+* Ad-hoc peer reviewer:
+  * Neuroimage
+  * Magnetic Resonance in Medicine
