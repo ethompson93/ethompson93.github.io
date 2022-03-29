@@ -9,14 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-Research Positions
+## Research Positions
 ======
-* November 2021 - present: Research Fellow
+* Research Fellow, November 2021 - present
   * University College London
   * Improving brain connectivity estimation for disease progression modelling
   * Supervisor: Professor Danny Alexander
 
-* February to September 2021: Research Assistant
+* Research Assistant, February to September 2021
   * University of Nottingham
   * Extending my PhD project: working on neonatal tractography protocols, and exploring methods for mapping brain connections across the lifespan.
   * Supervisors: Professor Stam Sotiropoulos and Dr Matteo Bastiani
@@ -54,6 +54,7 @@ Outreach
 
 Other Activities
 ======
+* Participated in [NeuroHack 2022](https://demondementia.com/neurohack2022/), a competitive international hackathon. Was part of a team working on the challenge "Machine learning for dementia diagnosis in the United States and India". We received a £10,000 pilot grant to continue our work on the project.
 * Member of the Education and Outreach working group of the OHBM Sustainability and Environmental Action SIG
 * Ad-hoc peer reviewer:
   * Neuroimage
