@@ -9,14 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* PhD in Neuroimaging, University of Nottingham, 2016 - 2021
-  * Thesis entitled "Mapping connections in the Neonatal Brain with Magnetic Resonance Imaging"
-  * Oxford-Nottingham Biomedical Imaging CDT
-* BA and MSci in Physics, University of Cambridge, 2012 - 2016
-
-Work experience
+Research Positions
 ======
 * November 2021 - present: Research Fellow
   * University College London
@@ -27,6 +20,13 @@ Work experience
   * University of Nottingham
   * Extending my PhD project: working on neonatal tractography protocols, and exploring methods for mapping brain connections across the lifespan.
   * Supervisors: Professor Stam Sotiropoulos and Dr Matteo Bastiani
+
+Education
+======
+* PhD in Neuroimaging, University of Nottingham, 2016 - 2021
+  * Thesis entitled "Mapping connections in the Neonatal Brain with Magnetic Resonance Imaging"
+  * Oxford-Nottingham Biomedical Imaging CDT
+* BA and MSci in Physics, University of Cambridge, 2012 - 2016
   
 
 Publications
@@ -35,7 +35,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Conference Presentations
+Talks and Conference Presentations
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
