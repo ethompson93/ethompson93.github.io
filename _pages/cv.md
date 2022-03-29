@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 ## Research Positions
-======
+
 * Research Fellow, November 2021 - present
   * University College London
   * Improving brain connectivity estimation for disease progression modelling
@@ -21,34 +21,34 @@ redirect_from:
   * Extending my PhD project: working on neonatal tractography protocols, and exploring methods for mapping brain connections across the lifespan.
   * Supervisors: Professor Stam Sotiropoulos and Dr Matteo Bastiani
 
-Education
-======
+## Education
+
 * PhD in Neuroimaging, University of Nottingham, 2016 - 2021
   * Thesis entitled "Mapping connections in the Neonatal Brain with Magnetic Resonance Imaging"
   * Oxford-Nottingham Biomedical Imaging CDT
 * BA and MSci in Physics, University of Cambridge, 2012 - 2016
   
 
-Publications
-======
+## Publications
+
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks and Conference Presentations
-======
+## Talks and Conference Presentations
+
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
-======
+## Teaching
+
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Outreach
-======
+## Outreach
+
 * Mentor on the Apply Competitively to STEM (A-COMPS) programme at UCL. Providing academic and personal support to an A-level student from an under-represented background
 * Theme Leader at Pint of Science, Nottingham, 2019
 
