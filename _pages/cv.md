@@ -52,8 +52,8 @@ redirect_from:
 * Mentor on the Apply Competitively to STEM (A-COMPS) programme at UCL. Providing academic and personal support to an A-level student from an under-represented background
 * Theme Leader at Pint of Science, Nottingham, 2019
 
-Other Activities
-======
+## Other Activities
+
 * Participated in [NeuroHack 2022](https://demondementia.com/neurohack2022/), a competitive international hackathon. Was part of a team working on the challenge "Machine learning for dementia diagnosis in the United States and India". We received a £10,000 pilot grant to continue our work on the project.
 * Member of the Education and Outreach working group of the OHBM Sustainability and Environmental Action SIG
 * Ad-hoc peer reviewer:
