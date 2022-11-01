@@ -54,9 +54,9 @@ redirect_from:
 
 ## Other Activities
 
-* Participated in [NeuroHack 2022](https://demondementia.com/neurohack2022/), a competitive international hackathon. Was part of a team working on the challenge "Machine learning for dementia diagnosis in the United States and India". We developed an app for low-cost Dementia screening: [https://researchmind.co.uk/readi-dem/](https://researchmind.co.uk/readi-dem/). We received a £10,000 pilot grant to continue our work on the project. A late-breaking abstract entitled "Got a minute? An ML-powered, web-interface tool for Robust, Efficient, Affordable DIagnosis of Dementia (READi-Dem)" was accepted for an oral presentation at the European Academy of Neurology Congress 2022. 
+* Participated in [NeuroHack 2022](https://demondementia.com/neurohack2022/), a competitive international hackathon. Part of a team working on the challenge "Machine learning for dementia diagnosis in the United States and India". We developed an app for low-cost Dementia screening: [https://researchmind.co.uk/readi-dem/](https://researchmind.co.uk/readi-dem/). We received a £10,000 pilot grant to continue our work on the project. A late-breaking abstract entitled "Got a minute? An ML-powered, web-interface tool for Robust, Efficient, Affordable DIagnosis of Dementia (READi-Dem)" was accepted for an oral presentation at the European Academy of Neurology Congress 2022. 
 
-* Organising Brain Connectivity seminars in my department (2022-present).
+* Organising monthly Brain Connectivity seminars at UCL (April 2022-present).
 * Member of the Education and Outreach working group of the OHBM Sustainability and Environmental Action SIG
 * Ad-hoc peer reviewer:
   * Neuroimage
