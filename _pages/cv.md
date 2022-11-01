@@ -37,13 +37,13 @@ redirect_from:
   
 ## Talks and Conference Presentations
 
-  <ul>{% for post in site.talks %}
+  <ul>{% for post in site.talks reversed%}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
 ## Teaching
 
-  <ul>{% for post in site.teaching %}
+  <ul>{% for post in site.teaching reversed%}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
