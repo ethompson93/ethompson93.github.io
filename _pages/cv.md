@@ -58,6 +58,8 @@ redirect_from:
 
 * Organising monthly Brain Connectivity seminars at UCL (April 2022-present).
 * Member of the Education and Outreach working group of the OHBM Sustainability and Environmental Action SIG
+* Session moderator at [MRI together 2022](https://mritogether.esmrmb.org)
 * Ad-hoc peer reviewer:
   * Neuroimage
   * Magnetic Resonance in Medicine
+  * Physica Medica
