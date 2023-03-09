@@ -61,6 +61,7 @@ redirect_from:
 * Member of the Education and Outreach working group of the OHBM Sustainability and Environmental Action SIG
 * Session moderator at [MRI together 2022](https://mritogether.esmrmb.org)
 * Ad-hoc peer reviewer:
+  * Medical Image Analysis 
   * Neuroimage
   * Magnetic Resonance in Medicine
   * Physica Medica
