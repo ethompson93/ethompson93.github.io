@@ -50,7 +50,7 @@ redirect_from:
 ## Outreach
 
 * Participated in a speed networking session with 20 secondary school students as part of the EAST Careers Week 2023. Answered questions about life as a researcher, and my route into science.
-* Mentor on the Apply Competitively to STEM (A-COMPS) programme at UCL (summer 2022 - present). Providing academic and personal support to an A-level student from an under-represented background
+* Mentor on the Apply Competitively to STEM (A-COMPS) programme at UCL (Sprint 2022 - Summer 2023). Providing academic and personal support to an A-level student from an under-represented background
 * Theme Leader at Pint of Science, Nottingham, 2019
 
 ## Other Activities

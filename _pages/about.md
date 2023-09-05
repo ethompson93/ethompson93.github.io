@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+I am a postdoctoral researcher interested in the brain's connectivity architecture, and how we can combine imaging with computational techniques to improve our understanding of brain networks. 
 
 ## Current Role
 Since November 2021, I have been working as a Research Fellow at UCL in the [Progression Of Neurodegenerative Disease (POND) Group](https://ucl-pond.github.io/). I am working on mechanistic modelling of tau spread in Alzheimer's disease, specifically how we can combine connectivity information from different modalities to improve the accuracy of our models.
