@@ -51,11 +51,11 @@ redirect_from:
 
 * Participated in a speed networking session with 20 secondary school students as part of the EAST Careers Week 2023. Answered questions about life as a researcher, and my route into science.
 * Mentor on the Apply Competitively to STEM (A-COMPS) programme at UCL (Sprint 2022 - Summer 2023). Providing academic and personal support to an A-level student from an under-represented background
-* Theme Leader at Pint of Science, Nottingham, 2019
+* Theme Leader at Pint of Science, Nottingham, 2019. Led a team to organise a series of talks around the theme of technology for the general public.
 
 ## Other Activities
 
-* I participated in [NeuroHack 2022](https://demondementia.com/neurohack2022/), a competitive international hackathon. I was part of a team working on the challenge "Machine learning for dementia diagnosis in the United States and India". We developed an app for low-cost Dementia screening: [https://researchmind.co.uk/readi-dem/](https://researchmind.co.uk/readi-dem/) and sucessfully applied for a £10,000 pilot grant to continue our work on the project. The work has since been published on [medRxiv](https://www.medrxiv.org/content/10.1101/2023.10.23.23297405v1).
+* I participated in [NeuroHack 2022](https://demondementia.com/neurohack2022/), a competitive international hackathon. I was part of a team working on the challenge "Machine learning for dementia diagnosis in the United States and India". We developed an app for low-cost Dementia screening: [https://researchmind.co.uk/readi-dem/](https://researchmind.co.uk/readi-dem/) and sucessfully applied for a £10,000 pilot grant to continue our work on the project. The work has since been published as a [preprint](https://www.medrxiv.org/content/10.1101/2023.10.23.23297405v1).
 
 * Member of the organising committee for the MICCAI 2024 International Workshop of Computational Diffusion MRI (CDMRI 2024)[http://cmic.cs.ucl.ac.uk/cdmri/].
 * Organised monthly Brain Connectivity seminars at UCL (2022-2024).
