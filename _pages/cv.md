@@ -55,11 +55,12 @@ redirect_from:
 
 ## Other Activities
 
-* I participated in [NeuroHack 2022](https://demondementia.com/neurohack2022/), a competitive international hackathon. I was part of a team working on the challenge "Machine learning for dementia diagnosis in the United States and India". We developed an app for low-cost Dementia screening: [https://researchmind.co.uk/readi-dem/](https://researchmind.co.uk/readi-dem/). We received a £10,000 pilot grant to continue our work on the project. A late-breaking abstract entitled "Got a minute? An ML-powered, web-interface tool for Robust, Efficient, Affordable DIagnosis of Dementia (READi-Dem)" was accepted for an oral presentation at the European Academy of Neurology Congress 2022, and the work has since been published on medRxiv [here](https://www.medrxiv.org/content/10.1101/2023.10.23.23297405v1).
+* I participated in [NeuroHack 2022](https://demondementia.com/neurohack2022/), a competitive international hackathon. I was part of a team working on the challenge "Machine learning for dementia diagnosis in the United States and India". We developed an app for low-cost Dementia screening: [https://researchmind.co.uk/readi-dem/](https://researchmind.co.uk/readi-dem/) and sucessfully applied for a £10,000 pilot grant to continue our work on the project. The work has since been published on [medRxiv](https://www.medrxiv.org/content/10.1101/2023.10.23.23297405v1).
 
-* Organising monthly Brain Connectivity seminars at UCL (April 2022-present).
-* Member of the Education and Outreach working group of the OHBM Sustainability and Environmental Action SIG
+* Member of the organising committee for the MICCAI 2024 International Workshop of Computational Diffusion MRI (CDMRI 2024)[http://cmic.cs.ucl.ac.uk/cdmri/].
+* Organised monthly Brain Connectivity seminars at UCL (2022-2024).
 * Session moderator at [MRI together 2022](https://mritogether.esmrmb.org)
+* Member of the Education and Outreach working group of the OHBM Sustainability and Environmental Action SIG (2021-2023)
 * Ad-hoc peer reviewer:
   * Medical Image Analysis 
   * Neuroimage
