@@ -8,10 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral researcher interested in brain connectivity, and how we can combine neuroimaging with computational techniques to improve our understanding of brain networks. 
+I am a postdoctoral researcher at UCL, working on computational methods for mapping connections in the human brain. As a member of the [Progression Of Neurodegenerative Disease (POND) Group](https://ucl-pond.github.io/), I am also interested in leveraging these techniques to improve modelling of pathology spread in Alzheimer's disease. You can find some of this work [here](https://direct.mit.edu/imag/article/doi/10.1162/imag_a_00089/119149/Combining-multimodal-connectivity-information) and [here](https://github.com/ucl-pond/network_spreading_models).
 
-## Current Role
-I am a Research Fellow in the [Progression Of Neurodegenerative Disease (POND) Group](https://ucl-pond.github.io/) at UCL's Centre for Medical Image Computing. I am working on mechanistic modelling of pathology spread in Alzheimer's disease, and deep learning methods for mapping brain connectivity.
 
 ## Previous Work
 
