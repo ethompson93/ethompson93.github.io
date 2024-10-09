@@ -46,6 +46,15 @@ redirect_from:
   <ul>{% for post in site.teaching reversed%}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+## Funding and Academic Awards
+* 2024: AAIC Conference Fellowship
+* 2024: MedICSS award for contribution to the yearly UCL Medical Image Computing Summer School. £500 awarded for conference travel.
+* 2024: UCL Institute for Healthcare Engineering Early Career Researcher travel award. £500 awarded for conference travel.
+* 2022: DEMON Network Pilot Grant. £10,000 awarded to extend a group hackathon project: “An online platform for low-cost, automatic diagnosis of general dementia using combined cognitive and informant measures”
+* 2023: Guarantors of Brain Travel Grant. £955 awarded for conference travel.
+* 2019: University of Oxford Doctoral Training Centre Outreach Award, for organisation of Pint of Science Festival in Nottingham
+* 2018: ISMRM Summa Cum Laude Merit Award for abstract in top 5% of submissions in a review category
   
 ## Outreach
 
@@ -54,16 +63,12 @@ redirect_from:
 * Theme Leader at Pint of Science, Nottingham, 2019. Led a team to organise a series of talks around the theme of technology for the general public.
 
 ## Other Activities
-
-* I was a member of the organising committee for the MICCAI 2024 International Workshop of Computational Diffusion MRI [CDMRI 2024](http://cmic.cs.ucl.ac.uk/cdmri/).
-* I was a session chair at the 2024 Alzheimer's Association International Conference (AAIC), for the featured research session "Tau accumulation and tau spreading patterns II"
+* Representative for research fellows and research assistants at UCL's Centre for Medical Image Computing (October 2024-present). My role is to represent the views of postdocs and RAs at the CMIC core meetings, and to organise welfare events.
+* Member of the organising committee for the MICCAI 2024 International Workshop of Computational Diffusion MRI: [CDMRI 2024](http://cmic.cs.ucl.ac.uk/cdmri/). My role involved maintaining the website, contacting authors via the conference management system, and helping to organise the peer review process.
+* Session chair at the 2024 Alzheimer's Association International Conference (AAIC), for the featured research session "Tau accumulation and tau spreading patterns II"
 * From April 2022 - April 2024 I organised monthly Brain Connectivity seminars at UCL. I was responsible for organising the seminars, inviting speakers, and promoting the events.
-* I participated in [NeuroHack 2022](https://demondementia.com/neurohack2022/), a competitive international hackathon. I was part of a team working on the challenge "Machine learning for dementia diagnosis in the United States and India". We developed an app for low-cost Dementia screening: [https://researchmind.co.uk/readi-dem/](https://researchmind.co.uk/readi-dem/) and sucessfully applied for a £10,000 pilot grant to continue our work on the project. The work has since been published as a [preprint](https://www.medrxiv.org/content/10.1101/2023.10.23.23297405v1).
-
-
 * Session moderator at [MRI together 2022](https://mritogether.esmrmb.org)
-
-* Member of the Education and Outreach working group of the OHBM Sustainability and Environmental Action SIG (2021-2023)
+* From 2021 to 2023 I was a member of the Education and Outreach working group of the OHBM Sustainability and Environmental Action SIG (2021-2023). This involved creating promotional materials for the SIG, and helping out with events to promote sustainability in neuroimaging research.
 
 * Ad-hoc peer reviewer:
   * Medical Image Analysis 
