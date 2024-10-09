@@ -49,18 +49,18 @@ redirect_from:
 
 ## Funding and Academic Awards
 
-- **2024**: AAIC Conference Fellowship  
-- **2024**: MedICSS Award  
-  *Awarded £500 for contribution to UCL Medical Image Computing Summer School (for conference travel)*  
-- **2024**: UCL Institute for Healthcare Engineering Early Career Researcher Travel Award  
+- 2024: AAIC Conference Fellowship  
+- 2024: MedICSS Award, for contribution to UCL Medical Image Computing Summer School
   *Awarded £500 for conference travel*  
-- **2023**: Guarantors of Brain Travel Grant  
+- 2024: UCL Institute for Healthcare Engineering Early Career Researcher Travel Award  
+  *Awarded £500 for conference travel*  
+- 2023: Guarantors of Brain Travel Grant  
   *Awarded £955 for conference travel*  
-- **2022**: DEMON Network Pilot Grant  
+- 2022: DEMON Network Pilot Grant  
   *Awarded £10,000 to extend a group hackathon project: "An online platform for low-cost, automatic diagnosis of general dementia using combined cognitive and informant measures"*  
-- **2019**: University of Oxford Doctoral Training Centre Outreach Award  
+- 2019: University of Oxford Doctoral Training Centre Outreach Award  
   *For organizing the Pint of Science Festival in Nottingham*  
-- **2018**: ISMRM Summa Cum Laude Merit Award  
+- 2018: ISMRM Summa Cum Laude Merit Award  
   *Recognized for abstract in the top 5% of submissions in a review category*  
 
   
