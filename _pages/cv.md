@@ -48,13 +48,21 @@ redirect_from:
   {% endfor %}</ul>
 
 ## Funding and Academic Awards
-* 2024: AAIC Conference Fellowship
-* 2024: MedICSS award for contribution to the yearly UCL Medical Image Computing Summer School. £500 awarded for conference travel.
-* 2024: UCL Institute for Healthcare Engineering Early Career Researcher travel award. £500 awarded for conference travel.
-* 2022: DEMON Network Pilot Grant. £10,000 awarded to extend a group hackathon project: “An online platform for low-cost, automatic diagnosis of general dementia using combined cognitive and informant measures”
-* 2023: Guarantors of Brain Travel Grant. £955 awarded for conference travel.
-* 2019: University of Oxford Doctoral Training Centre Outreach Award, for organisation of Pint of Science Festival in Nottingham
-* 2018: ISMRM Summa Cum Laude Merit Award for abstract in top 5% of submissions in a review category
+
+- **2024**: AAIC Conference Fellowship  
+- **2024**: MedICSS Award  
+  *Awarded £500 for contribution to UCL Medical Image Computing Summer School (for conference travel)*  
+- **2024**: UCL Institute for Healthcare Engineering Early Career Researcher Travel Award  
+  *Awarded £500 for conference travel*  
+- **2023**: Guarantors of Brain Travel Grant  
+  *Awarded £955 for conference travel*  
+- **2022**: DEMON Network Pilot Grant  
+  *Awarded £10,000 to extend a group hackathon project: "An online platform for low-cost, automatic diagnosis of general dementia using combined cognitive and informant measures"*  
+- **2019**: University of Oxford Doctoral Training Centre Outreach Award  
+  *For organizing the Pint of Science Festival in Nottingham*  
+- **2018**: ISMRM Summa Cum Laude Merit Award  
+  *Recognized for abstract in the top 5% of submissions in a review category*  
+
   
 ## Outreach
 
@@ -63,7 +71,7 @@ redirect_from:
 * Theme Leader at Pint of Science, Nottingham, 2019. Led a team to organise a series of talks around the theme of technology for the general public.
 
 ## Other Activities
-* Representative for research fellows and research assistants at UCL's Centre for Medical Image Computing (October 2024-present). My role is to represent the views of postdocs and RAs at the CMIC core meetings, and to organise welfare events.
+* Representative for research fellows and research assistants at UCL's Centre for Medical Image Computing. My role is to represent the views of postdocs and RAs at the CMIC core meetings, and to organise welfare events.
 * Member of the organising committee for the MICCAI 2024 International Workshop of Computational Diffusion MRI: [CDMRI 2024](http://cmic.cs.ucl.ac.uk/cdmri/). My role involved maintaining the website, contacting authors via the conference management system, and helping to organise the peer review process.
 * Session chair at the 2024 Alzheimer's Association International Conference (AAIC), for the featured research session "Tau accumulation and tau spreading patterns II"
 * From April 2022 - April 2024 I organised monthly Brain Connectivity seminars at UCL. I was responsible for organising the seminars, inviting speakers, and promoting the events.
