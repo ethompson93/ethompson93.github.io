@@ -41,7 +41,7 @@ redirect_from:
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-## Teaching
+## Teaching and Project Supervision
 
   <ul>{% for post in site.teaching reversed%}
     {% include archive-single-cv.html %}
@@ -55,8 +55,9 @@ redirect_from:
 
 ## Other Activities
 
-* I am a member of the organising committee for the MICCAI 2024 International Workshop of Computational Diffusion MRI [CDMRI 2024](http://cmic.cs.ucl.ac.uk/cdmri/).
-* I organised monthly Brain Connectivity seminars at UCL (2022-2024).
+* I was a member of the organising committee for the MICCAI 2024 International Workshop of Computational Diffusion MRI [CDMRI 2024](http://cmic.cs.ucl.ac.uk/cdmri/).
+* I was a session chair at the 2024 Alzheimer's Association International Conference (AAIC), for the featured research session "Tau accumulation and tau spreading patterns II"
+* From April 2022 - April 2024 I organised monthly Brain Connectivity seminars at UCL. I was responsible for organising the seminars, inviting speakers, and promoting the events.
 * I participated in [NeuroHack 2022](https://demondementia.com/neurohack2022/), a competitive international hackathon. I was part of a team working on the challenge "Machine learning for dementia diagnosis in the United States and India". We developed an app for low-cost Dementia screening: [https://researchmind.co.uk/readi-dem/](https://researchmind.co.uk/readi-dem/) and sucessfully applied for a £10,000 pilot grant to continue our work on the project. The work has since been published as a [preprint](https://www.medrxiv.org/content/10.1101/2023.10.23.23297405v1).
 
 
@@ -71,3 +72,4 @@ redirect_from:
   * Physica Medica
   * Network Neuroscience
   * Alzheimer's & Dementia: The Journal of the Alzheimer's Association
+  * Human Brain Mapping

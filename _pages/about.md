@@ -17,7 +17,9 @@ I completed my PhD in 2021 in the [Computational Neuroimaging Laboratory](https:
 
 A key part of my PhD project was a new framework for data-driven connectivity mapping (paper [here](https://www.sciencedirect.com/science/article/pii/S105381192030759X)). We used non-negative matrix factorisation to extract white matter connectivity patterns and their corresponding grey matter networks from whole-brain connectivity matrices. This provides a way of extracting white matter bundles from tractography data, without the need for pre-defined regions of interest.
 
-![NMF_diagram](../images/diagram.jpg)
+![NMF_diagram](/images/diagram.jpg){:width="300px"}
+
+I also developed a new set of tractography protocols for neonates, based on the XTRACT framework. The protocols allow automated tracking of 42 white matter bundles that are equivalently defined for the adult human and macaque, and are included in [FSL](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/XTRACT). We used these protocols to define a common space to study changes in brain connectivity through development and across different species (paper [here](https://www.science.org/doi/10.1126/sciadv.abq2022)).
 
 I also developed a new set of tractography protocols for neonates, based on the XTRACT framework. The protocols allow automated tracking of 42 white matter bundles that are equivalently defined for the adult human and macaque, and are included in [FSL](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/XTRACT). We used these protocols to define a common space to study changes in brain connectivity through development and across different species (paper [here](https://www.science.org/doi/10.1126/sciadv.abq2022)).
 
