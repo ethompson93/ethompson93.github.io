@@ -4,7 +4,7 @@ collection: teaching
 type: "Summer school"
 permalink: /teaching/medicss
 venue: "University College London, Centre for Medical Image Computing"
-date: 2022-07-11, 2023-07-14
+date: 2024-07-01
 location: "hybrid"
 ---
 

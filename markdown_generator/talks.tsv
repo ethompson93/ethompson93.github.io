@@ -1,4 +1,6 @@
 title	type	url_slug	venue	date	location	talk_url	description
+Analysis Techniques for Diffusion MRI	Talk	talk-4	ISMRM Workshop on 40 Years of Diffusion	16/02/2025	"Kyoto,  Japan"	https://github.com/ethompson93/dmri_analysis_techniques	Led educational bootcamp session on analysis techniques for diffusion MRI.
+Structural Connectomics Informed by Large Language Models	Poster	poster-6	ISMRM Workshop on 40 Years of Diffusion	19/02/2025	"Kyoto,  Japan"		
 Combining multimodal connectivity information improves modelling of pathology spread in Alzheimer's disease	Talk	talk-3	Alzheimer's Association International Conference (AAIC)	31/07/2024	"Philadelphia, USA"		Featured research session - Tau accumulation and tau spreading patterns II
 Demonstration of an open-source toolbox for network spreading models: regional amyloid burden promotes tau production in Alzheimer's disease	Poster	poster-5	Alzheimer's Association International Conference (AAIC)	29/07/2024	"Philadelphia, USA"	http://ethompson93.github.io/files/toolbox_poster.pdf	
 Combining Multimodal Connectivity Improves Modelling of Pathology Spread In Alzheimer's Disease	Poster	poster-4	OHBM Annual Meeting	23/07/2023	"Montreal, Canada"	http://ethompson93.github.io/files/OHBM_2023.pdf	
