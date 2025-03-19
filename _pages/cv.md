@@ -41,16 +41,19 @@ redirect_from:
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-## Teaching and Project Supervision
+## Teaching
 
   <ul>{% for post in site.teaching reversed%}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
+## Project Supervision
+
+
 ## Funding and Academic Awards
 - 2024: Cohere For AI Research Grant
 - 2024: AAIC Conference Fellowship  
-- 2024: MedICSS travel Award, for contribution to UCL Medical Image Computing Summer School
+- 2024: MedICSS Travel Award, for contribution to UCL Medical Image Computing Summer School
 - 2024: UCL Institute for Healthcare Engineering Early Career Researcher Travel Award  
 - 2023: Guarantors of Brain Travel Grant  
 - 2022: DEMON Network Pilot Grant  
@@ -63,18 +66,18 @@ redirect_from:
 ## Outreach
 
 * Participated in a speed networking session with 20 secondary school students as part of the EAST Careers Week 2023. Answered questions about life as a researcher, and my route into science.
-* Mentor on the Apply Competitively to STEM (A-COMPS) programme at UCL (Sprint 2022 - Summer 2023). Providing academic and personal support to an A-level student from an under-represented background
+* Mentor on the Apply Competitively to STEM (A-COMPS) programme at UCL (2022 - 2023). Providing academic and personal support to an A-level student from an under-represented background
 * Theme Leader at Pint of Science, Nottingham, 2019. Led a team to organise a series of talks around the theme of technology for the general public.
 
 ## Other Activities
 - Postdoc representative at UCL Hawkes Institute  
   *Representing the views of postdocs and RAs at core meetings, organising welfare events, setting up mentorship scheme for postdocs and RAs.*
-- Member of [CDMRI](http://cmic.cs.ucl.ac.uk/cdmri/) MICCAI workshop organising committee 2024-2025   
+- [CDMRI](http://cmic.cs.ucl.ac.uk/cdmri/) MICCAI workshop organising committee (2024-2025)  
   *Maintaining the website, contacting authors via the conference management system, and helping to organise the peer review process*
-- Session chair for "Tau accumulation and tau spreading patterns II" AAIC 2024 
-- Organised monthly Brain Connectivity seminars at UCL, 2022-2024
-- Session moderator at [MRI together 2022](https://mritogether.esmrmb.org)
-- Member of the Education and Outreach working group of the OHBM Sustainability and Environmental Action SIG (2021-2023).   
+- AAIC session chair for "Tau accumulation and tau spreading patterns II" (2024)
+- Organised monthly Brain Connectivity seminars at UCL (2022-2024)
+- Session moderator at [MRI together](https://mritogether.esmrmb.org) (2022)
+- Member of the OHBM Sustainability and Environmental Action SIG (2021-2023).   
   *Creating promotional materials for the SIG, and helping out with events to promote sustainability in neuroimaging research.*
 
 * Ad-hoc peer reviewer:

@@ -1,5 +1,5 @@
 ---
-title: "Nottingham Medical Imaging Academy"
+title: "Tutor - Nottingham Medical Imaging Academy"
 collection: teaching
 type: "Postgraduate course"
 permalink: /teaching/nmedia
