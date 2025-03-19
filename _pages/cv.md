@@ -50,12 +50,12 @@ redirect_from:
 ## Project Supervision
 
 ### Primary Supervisor
-- **Exploring sex differences in Alzheimer’s disease using connectome-based modelling of tau spread** (MRes Project)  
-- **Advancing universal real-time speech synthesis from non-invasive neural recordings** (Undergraduate Research Project)  
-- **Reinforcement learning for tractography** (MSc Project)  
+- Exploring sex differences in Alzheimer’s disease using connectome-based modelling of tau spread (MRes Project)  
+- Advancing universal real-time speech synthesis from non-invasive neural recordings (Undergraduate Research Project)  
+- Reinforcement learning for tractography (MSc Project)  
 
 ### Secondary Supervisor
-- **Connect Tau: Using AI and Alzheimer’s disease progression to map brain connectivity** (MSc Project)  
+- Connect Tau: Using AI and Alzheimer’s disease progression to map brain connectivity (MSc Project)  
 
 
 ## Funding and Academic Awards
