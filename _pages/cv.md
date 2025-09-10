@@ -11,7 +11,8 @@ redirect_from:
 
 ## Research Positions
 
-* Research Fellow, November 2021 - present
+* Senior Research Fellow, September 2025 - present
+* Research Fellow, November 2021 - September 2025
   * University College London
   * Improving brain connectivity estimation for disease progression modelling
   * Supervisor: Professor Danny Alexander
@@ -59,7 +60,8 @@ redirect_from:
 
 
 ## Funding and Academic Awards
-- 2024: Cohere For AI Research Grant
+- 2025: OpenAI Researcher Access Program, $1000 computational credits
+- 2024: Cohere For AI Research Grant, $2000 computational credits
 - 2024: AAIC Conference Fellowship  
 - 2024: MedICSS Travel Award, for contribution to UCL Medical Image Computing Summer School
 - 2024: UCL Institute for Healthcare Engineering Early Career Researcher Travel Award  
