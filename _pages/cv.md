@@ -10,17 +10,16 @@ redirect_from:
 {% include base_path %}
 
 ## Research Positions
+* UCL Hawkes Institute, Department of Computer Science, University College London
+  * Senior Research Fellow, September 2025 - present
+  * Research Fellow, November 2021 - September 2025
+    * Improving brain connectivity estimation for disease progression modelling
+    * Supervisor: Professor Danny Alexander
 
-* Senior Research Fellow, September 2025 - present
-* Research Fellow, November 2021 - September 2025
-  * University College London
-  * Improving brain connectivity estimation for disease progression modelling
-  * Supervisor: Professor Danny Alexander
-
-* Research Assistant, February to September 2021
-  * University of Nottingham
-  * Extending my PhD project: working on neonatal tractography protocols, and exploring methods for mapping brain connections across the lifespan.
-  * Supervisors: Professor Stam Sotiropoulos and Dr Matteo Bastiani
+* Sir Peter Mansfield Imaging Centre, University of Nottingham
+  * Research Assistant, February to September 2021
+    * Developing open-source neonatal tractography protocols, and exploring methods for mapping brain connections across the lifespan.
+    * Supervisors: Professor Stam Sotiropoulos and Dr Matteo Bastiani
 
 ## Education
 
