@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoc at UCL, working in the [Progression Of Neurodegenerative Disease (POND) Group](https://ucl-pond.github.io/). I am developing computational techniques to improve the accuracy of brain connectivity mapping, and applying these to the modelling of pathology spread in neurodegenerative disease. 
+I am a Senior Research Fellow at UCL, working in the [Progression Of Neurodegenerative Disease (POND) Group](https://ucl-pond.github.io/). I am developing computational techniques to improve the accuracy of brain connectivity mapping, and applying these to the modelling of pathology spread in neurodegenerative disease. 
 
 My [previous work](https://direct.mit.edu/imag/article/doi/10.1162/imag_a_00089/119149/Combining-multimodal-connectivity-information) has shown that combining connectivity estimates from different sources (such as tractography and functional MRI) can improve the accuracy of these models. I have also contributed to an [open source toolbox](https://github.com/ucl-pond/network_spreading_models) for network spreading models.
 
